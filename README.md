@@ -38,7 +38,7 @@ Order Priority
 - Critical           1 <br>
 
 
- Graphically
+ Graphically <br>
 
  ![image](https://github.com/yasiralikhan96/EDA-Data-Analysis-Project/assets/174413017/b958bcda-7449-405d-9ef6-dcb9fe7cf242)
 
@@ -86,11 +86,11 @@ In this step Product wise Profit of diffrent products were checked. <br>
 
 STEP 8 <br>
 
-Statevice Sales of top . <br>
+Statevice Sales of top 5 states . <br>
  - State or Province <br>
  - California    214 <br>
  - New York      129 <br>
  - Texas         124 <br>
-   Florida       123 <br>
-   Illinois       88
+ - Florida       123 <br>
+ - Illinois       88
  
