@@ -1,4 +1,4 @@
-# EDA-Data-Analysis-Project
+# Data-Analysis-Project Portfolio
 
 US Store Data Analysis Project
 
