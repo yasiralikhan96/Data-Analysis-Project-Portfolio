@@ -1,6 +1,6 @@
-# Data-Analysis-Project Portfolio
+# Project 1 : Data-Analysis-Project Portfolio
 
-US Store Data Analysis Project
+Ecommerce Sales : US Store Data Analysis Project
 
 Overview
 This project analyzes US store data to extract insights and trends using data analysis and statistical techniques. The dataset used includes information such as sales, customer demographics, product categories, and geographical details.
