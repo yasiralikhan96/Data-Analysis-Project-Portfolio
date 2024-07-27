@@ -114,3 +114,49 @@ How to Use:
    Open the Excel file.<br>
    Navigate to the dashboard tab.<br>
    Explore the interactive graphs and tables. <br>
+
+ # Movies Data: Correlation in Python
+
+Description:
+A project that involves performing a correlation analysis on a dataset of movies using Python. The analysis aims to uncover relationships between various movie attributes to aid in predictive modeling and data insights.
+
+Key Features:
+
+   Correlation analysis of movie attributes.<br>
+   Data cleaning and preprocessing.<br>
+   Insights into attribute relationships.<br>
+
+Technologies Used:
+
+   Python
+   Pandas, NumPy, Matplotlib
+
+How to Use:
+
+   Clone the repository.<br>
+   Install the necessary libraries.<br>
+   Run the analysis script.<br>
+   Review the correlation results and visualizations.<br>
+
+# Nashville Housing Data Cleaning
+
+Overview:
+     This project involves cleaning and preprocessing housing data for the Nashville region. The focus is on handling inconsistencies, missing values, and outliers to prepare the data for further analysis.
+
+Features:
+
+   Data Cleaning: Addresses inconsistencies and errors in the dataset.<br>
+   Missing Values: Implements strategies to handle missing data.<br>
+   Outliers: Identifies and manages outliers.<br>
+
+Purpose:
+     To enhance the quality and reliability of housing data, making it suitable for accurate and effective analysis.<br>
+
+Challenges:
+
+ Identifying and correcting data inconsistencies.<br>
+ Developing strategies for handling missing values and outliers.<br>
+
+Results:
+     The cleaned dataset is now ready for further analysis, providing a solid foundation for accurate and insightful data exploration.
+
