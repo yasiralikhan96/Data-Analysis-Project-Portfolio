@@ -93,4 +93,24 @@ Statevice Sales of top 5 states . <br>
  - Texas         124 <br>
  - Florida       123 <br>
  - Illinois       88
- 
+
+# Bike Sales Dashboard in Excel/Dashb
+
+Description:
+An interactive Excel dashboard designed to visualize and analyze bike sales data. The dashboard includes various graphs and pivot tables to provide insights into metrics such as Average Income Per Purchase, Customer Commute, and Customer Age Brackets.
+
+Key Features:
+
+   Visual representation of sales data.<br>
+   Interactive graphs and pivot tables.<br>
+   Insights into customer behavior and sales performance.<br>
+
+Technologies Used:
+
+   Microsoft Excel<br>
+
+How to Use:
+
+   Open the Excel file.<br>
+   Navigate to the dashboard tab.<br>
+   Explore the interactive graphs and tables. <br>
