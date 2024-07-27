@@ -160,3 +160,31 @@ Challenges:
 Results:
      The cleaned dataset is now ready for further analysis, providing a solid foundation for accurate and insightful data exploration.
 
+# Covid19 Data Analysis and Visualization
+
+Overview:
+Performed data analysis and visualization on Covid-19 data to understand trends, patterns, and impacts. The project aimed to provide clear insights into the pandemic's progression and effects.
+
+Tools Used:
+
+   SQL (for data extraction and manipulation)<br>
+   Tableau (for data visualization and dashboard creation)<br>
+
+Responsibilities:
+
+   Extracted and manipulated Covid-19 data using SQL queries.<br>
+   Created interactive and informative visualizations and dashboards in Tableau.<br>
+   Analyzed trends, cases, and other relevant metrics to uncover insights.<br>
+
+Achievements:
+
+   Developed comprehensive dashboards to visualize Covid-19 trends.<br>
+   Provided actionable insights into the pandemic's impact through effective data visualization.<br>
+
+Skills Demonstrated:
+
+   Data Extraction & Manipulation: Using SQL to query and prepare data.<br>
+   Data Visualization: Designing and building dashboards in Tableau.<br>
+   Trend Analysis: Identifying and interpreting Covid-19 trends and patterns.<br>
+   Insight Generation: Creating visualizations to communicate data-driven insights effectively.<br>
+
